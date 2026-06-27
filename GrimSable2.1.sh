@@ -10,13 +10,9 @@
 #   --recon     Gather system info [literally just uname lol]
 
 ###   --exploit   Run privilege escalation (CVE‑based) – default if no modules given [FINNICKY, USE AT YOUR OWN RISK]
-
 ###   --lateral   Lateral movement stubs [STILL IN DEV]
-
 ###   --persist   Persistence stubs [STILL IN DEV]
-
 ###   --creds     Credential harvesting stubs [STILL IN DEV]
-
 ###   --memory    Memory analysis stubs [STILL IN DEV]
 
 #   --self-destruct  Remove script after execution
